@@ -115,7 +115,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Comicbooks](#comicbooks)
 - [Manga](#manga)
 - [Documentaries](#documentaries)
-- [Fonts, Icons and Graphics](#fonts-icons-and-graphics)
+- [Fonts, Icons, and Graphics](#fonts-icons-and-graphics)
 - [Automation](#automation)
     - [TV Automation](#tv-automation)
     - [Movie Automation](#movie-automation)
