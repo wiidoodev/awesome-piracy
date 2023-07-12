@@ -942,6 +942,7 @@ premium services
 - [WatchFree](https://watchfree.at/) Openload, FServer
 - [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
+- [GoMovies](https://gomovies.bet/watch-series) VidStream, MyCloud, Filemoon, Streamango
 
 
 ## Media Centre Applications
